@@ -1,2 +1,3 @@
 hello world 
+Conflict will arise here
 this is a new feature from the amy's folder. Enjoy it
